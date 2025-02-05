@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 5d1e3a6664e0f8545a3b5352deb3258f
+  productGUID: b514fb590c264d94093007d35789db6d
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: VR
+  productName: VR2
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -854,14 +854,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: VR
+  metroPackageName: VR2
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: VR
+  metroApplicationDescription: VR2
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -931,10 +931,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: ee683084-24d5-4520-8ee2-59d0b1205864
+  cloudProjectId: 0fb4985a-eec7-43ff-8f1c-16902e633f9e
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: VR
+  projectName: VR2
   organizationId: dylan_ryan
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
